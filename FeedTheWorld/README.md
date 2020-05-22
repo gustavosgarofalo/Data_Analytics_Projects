@@ -11,3 +11,5 @@ Data extracted from:
 
 https://www.ers.usda.gov/topics/animal-products/cattle-beef/sector-at-a-glance/
 https://www.onegreenplanet.org/environment/livestock-feed-and-habitat-destruction/
+
+This is a in progress individual project, that really captivates my interest. It has partiall conclusions that led to more questions being raised and more interest on my behalf. The intention for the future is to 
